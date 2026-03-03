@@ -34,3 +34,41 @@ string patronymic = "Dmitrievich";
 string fullName = name + "\t" + surname + "\t" + patronymic;
 Console.WriteLine($"My Full name: {fullName}");
 
+## 🛠 Projects & Experience
+
+### Console Application "Cars"
+
+- **Description**: Console-based database application with file persistence
+- **Functionality**: Add, view, sort, search, and edit car records
+- **Technologies**: `C#`, `File I/O`, `Collections`
+- **Source code**: [GitHub Link](https://github.com/blablabla)
+
+### WinForms Desktop Application
+
+- **Description**: GUI application with JSON data storage
+- **Functionality**: Permanent data storage, user-friendly interface
+- **Technologies**: `C#`, `WinForms`, `JSON`, `Serialization`
+- **Source code**: [GitHub Link](https://github.com/blablabla)
+
+> **Note**: This CV itself is my first published project on GitHub Pages
+
+## 📚 Completed Courses
+
+- ✅ Physics Course — Completed
+- 🔄 Ongoing: Advanced C++ Programming (self-study)
+
+## 🌍 English Language
+
+- **Level**: B1 (Intermediate)
+- **Experience**: Technical documentation reading, English-language tutorials and courses
+
+## 📷 Photo
+
+![Meshkov Dmitriy](photo.jpg)
+
+*To view this photo, ensure photo.jpg is in the same directory*
+
+---
+
+<small>© 2026 Dmitry Meshkov. All rights reserved.  
+Last updated: February 17, 2026</small>
